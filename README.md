@@ -19,8 +19,10 @@ I welcome discussing your projects and help you find success!
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
 </div>
+
 ### Pins:
 [![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishmanners)](https://holopin.io/@mishmanners)
+
 # Skills 💪
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
