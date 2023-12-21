@@ -37,9 +37,6 @@ I welcome discussing your projects and help you find success!
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
-### Pins:
-[![An image of @mishmanners's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mishmanners)](https://holopin.io/@mishmanners)
-
 ⭐️ From [David Hartmann](https://github.com/davidmhartann1014)
 
 
