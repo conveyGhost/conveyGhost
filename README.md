@@ -17,7 +17,7 @@ I welcome discussing your projects and help you find success!
 - 📫 Ask me about anything, I am happy to help
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
 </div>
 
 # Skills 💪
