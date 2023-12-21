@@ -10,15 +10,16 @@ As a full-service provider of Web & Blockchain development and IT solutions, I s
 Also, I love to create great designs with you.
 I welcome discussing your projects and help you find success!
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
+</div>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working in Blockchain, AI and Web.
 - 🌱 I’m currently learning Edge Computing
 - 📫 Ask me about anything, I am happy to help
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
-</div>
 
 # Skills 💪
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
