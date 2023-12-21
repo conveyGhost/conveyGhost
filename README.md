@@ -20,8 +20,6 @@ I welcome discussing your projects and help you find success!
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
 [![Typescript](https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png)](https://www.typescriptlang.org/)
-[![Unity](https://user-images.githubusercontent.com/99139310/178839912-1878e2d4-e373-4437-b053-5dbfd67f6cb7.png)](https://unity.com)
-[![Unreal Engine](https://user-images.githubusercontent.com/99139310/180587525-2ea96da3-107a-4527-8340-323cb666e2a0.jpg)](https://unrealengine.com)
 [![Python](https://user-images.githubusercontent.com/99139310/178839917-351cd87d-2229-46ec-a2df-d8e1f33aa700.png)](https://python.org)
 [![Ganache](https://user-images.githubusercontent.com/99139310/180586686-2f8296bb-c66d-4eff-913e-d8e09d87a1f3.png)](https://trufflesuite.com/ganache/)
 [![React](https://user-images.githubusercontent.com/99139310/180586690-f56d3dd5-aec6-47ba-b8b3-eb8b2e5d342b.png)](https://reactjs.org/)
