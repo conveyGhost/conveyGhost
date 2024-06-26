@@ -16,10 +16,12 @@ I welcome discussing your projects and help you find success!
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in Blockchain, AI and Web.
+- 👨🏽‍💻 I’m currently working in Blockchain, AI and Web
 - 🌱 I’m currently learning Edge Computing
 - 📫 Ask me about anything, I am happy to help
-
+- 💪 Power Communication
+- Passion about new technologies
+<br/>
 
 # Skills 💪
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
@@ -37,19 +39,6 @@ I welcome discussing your projects and help you find success!
 [![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
 [![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
 
-⭐️ From [David Hartmann](https://github.com/davidmhartann1014)
-
-
-<p align="center">
-  <a href="mailto:david.hartmann1114@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/wDpwy4t21eVg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/fantasy1114" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://david-hartmann.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-  
-</p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
