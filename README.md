@@ -1,14 +1,10 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Python,JS%2CDeveloper!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Blockchain%2CDeveloper!" alt="Typing SVG" />
 </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurujustin&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 <p align="center"><a href="https://app.daily.dev/gurujustin"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=kmf" width="400" alt="Alpha Dev's Dev Card"></a></p> -->
 
-My goal is to exceed my customer’s expectations in the form of value, quality, and complete customer satisfaction.
-I carefully analyze my customer's needs and objectives and deliver them a worthy solution.
-As a full-service provider of Web & Blockchain development and IT solutions, I see my customer's project through from beginning to end, design, development, project management, quality assurance.
-Also, I love to create great designs with you.
-I welcome discussing your projects and help you find success!
+Blockchain Full-stack developer
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
