@@ -12,7 +12,7 @@ cutting-edge blockchain projects.
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px"  width="350px" align="right"> <br>
 </div>
 
 **Talking about Personal Stuffs:**
