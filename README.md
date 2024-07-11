@@ -1,10 +1,15 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=40&pause=1000&color=14D8DB&width=435&height=100&lines=Blockchain Developer!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Blockchain%20Developer!" alt="Typing SVG" />
 </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurujustin&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 <p align="center"><a href="https://app.daily.dev/gurujustin"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=kmf" width="400" alt="Alpha Dev's Dev Card"></a></p> -->
 
-Blockchain Full-stack developer
+Highly skilled blockchain developer with extensive experience in Solidity,
+JavaScript, Python, C++, and GoLang. Proven expertise in smart contract
+development, distributed storage systems, and blockchain protocols.
+Seeking to leverage my technical skills and experience to contribute to
+cutting-edge blockchain projects.
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px" max-width="450px" width="350px" align="right"> <br>
@@ -12,14 +17,15 @@ Blockchain Full-stack developer
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in Blockchain, AI and Web
-- 🌱 I’m currently learning Edge Computing
-- 📫 Ask me about anything, I am happy to help
-- 💪 Power Communication
-- Passion about new technologies
+-  I’m currently working in Blockchain, AI and Web
+-  I’m currently learning Edge Computing
+-  Ask me about anything, I am happy to help
+-  Power Communication
+-  Passion about new technologies
 <br/>
 
-# Skills 💪
+# Skills 
+[![Rust](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://rust-lang.org/)
 [![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
 [![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
 [![Typescript](https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png)](https://www.typescriptlang.org/)
