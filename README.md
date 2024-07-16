@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Courgette&size=35&pause=1000&color=14D8DB&width=435&height=100&lines=Blockchain%20Developer!" alt="Typing SVG" />
-</div>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurujustin&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-<p align="center"><a href="https://app.daily.dev/gurujustin"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=kmf" width="400" alt="Alpha Dev's Dev Card"></a></p> -->
+# Thanks for visiting my profile 😊
 
 Highly skilled blockchain developer with extensive experience in Solidity,
 JavaScript, Python, C++, and GoLang. Proven expertise in smart contract
@@ -10,10 +6,6 @@ development, distributed storage systems, and blockchain protocols.
 Seeking to leverage my technical skills and experience to contribute to
 cutting-edge blockchain projects.
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" min-width="380px"  width="350px" align="right"> <br>
-</div>
 
 **Talking about Personal Stuffs:**
 
@@ -24,26 +16,137 @@ cutting-edge blockchain projects.
 -  Passion about new technologies
 <br/>
 
-# Skills 
-[![Rust](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://rust-lang.org/)
-[![Solidity](https://user-images.githubusercontent.com/99139310/178839920-e89f5421-8051-4f25-b883-b5980b22891b.png)](https://soliditylang.org)
-[![Javascript](https://user-images.githubusercontent.com/99139310/178839919-98285d21-873f-4058-a649-3715f34b759e.png)](https://javascript.com)
-[![Typescript](https://user-images.githubusercontent.com/99139310/180587435-202f49ee-35d9-4486-88ad-aa20732f5847.png)](https://www.typescriptlang.org/)
-[![Python](https://user-images.githubusercontent.com/99139310/178839917-351cd87d-2229-46ec-a2df-d8e1f33aa700.png)](https://python.org)
-[![Ganache](https://user-images.githubusercontent.com/99139310/180586686-2f8296bb-c66d-4eff-913e-d8e09d87a1f3.png)](https://trufflesuite.com/ganache/)
-[![React](https://user-images.githubusercontent.com/99139310/180586690-f56d3dd5-aec6-47ba-b8b3-eb8b2e5d342b.png)](https://reactjs.org/)
-[![Webpack](https://user-images.githubusercontent.com/99139310/180586693-377c85d2-95d8-444f-8504-554e5b874eb5.png)](https://webpack.js.org/)
-[![C#](https://user-images.githubusercontent.com/99139310/178839916-d1924179-3c47-476c-9d44-eab13a6ca762.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Node.js](https://user-images.githubusercontent.com/99139310/178839910-a5dcd40f-89dd-4958-9170-4315181ed3f0.png)](https://nodejs.org/en/)
-[![HTML](https://user-images.githubusercontent.com/99139310/178839914-67b126fc-f805-488d-943e-77276fe7b7b7.png)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-[![CSS](https://user-images.githubusercontent.com/99139310/178839915-79ea749c-6ccf-476f-a79b-2c28cf8982cf.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Github](https://user-images.githubusercontent.com/99139310/180586687-e573df5c-0bd4-45a3-88d0-e6ce056e56cc.png)](https://github.com/)
-[![Git](https://user-images.githubusercontent.com/99139310/180586688-a1ba925b-f709-4064-91ae-4f40b120a116.png)](https://git-scm.com/)
-[![Visual Studio Code](https://user-images.githubusercontent.com/99139310/180586691-72cf0963-2772-45b6-a4c9-f05e305bdafe.png)](https://code.visualstudio.com/)
+## Skills 
 
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
+      <br>Solidity
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
+      <br>Rust
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
+      <br>NFT
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
+      <br>DeFi
+    </td>
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="45" height="45" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
+      <br>Android
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+      <br>MaterialUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
+      <br>Nuxt.js
+    </td>
+  </tr>
+</table> 
 
-
-<h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="width: 100%"/>
+  </p>
