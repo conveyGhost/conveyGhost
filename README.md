@@ -1,12 +1,8 @@
 # Thanks for visiting my profile 😊
-<br/>
-<br/>
-<br/>
-Highly skilled blockchain developer with extensive experience in Solidity,
-JavaScript, Python, C++, and GoLang. Proven expertise in smart contract
-development, distributed storage systems, and blockchain protocols.
-Seeking to leverage my technical skills and experience to contribute to
-cutting-edge blockchain projects.
+
+1. Highly skilled blockchain developer with extensive experience in Typescript, React, Next, Ethers, Web3.
+2. Proven expertise in smart contract development, distributed storage systems, and blockchain protocols.
+3. Seeking to leverage my technical skills and experience to contribute to cutting-edge blockchain projects.
 
 
 **Talking about Personal Stuffs:**
@@ -16,7 +12,6 @@ cutting-edge blockchain projects.
 -  Ask me about anything, I am happy to help
 -  Power Communication
 -  Passion about new technologies
-<br/>
 
 ## Skills 
 
